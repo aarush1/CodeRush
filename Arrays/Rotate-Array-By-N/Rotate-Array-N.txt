@@ -50,7 +50,7 @@ Space Complexity - O(1)
 - Take extra space Array List.
 
 Time Complexity - O(N)
-Space Complexity - O(N)GI
+Space Complexity - O(N)
 
 
 
